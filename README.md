@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @Zyklop I'm working for Wey Group AG. I'm leading the software development.
-- 🌍 https://www.weytec.com/en/
-- 🤝 I'm looking for new software engineers for my team: https://www.weytec.com/en/company/career/ 
+- 👋 Hi, I’m @Zyklop
+- 🇨🇭 I'm a programmer living in Switzerland
+- 🌍 [https://bosshart.wang/](https://bosshart.wang/renato-bosshart)
+- 🏢 I'm working for [Wey Group AG](https://www.weytec.com/en/). I'm leading the software development team. 
+<!--- 🤝 I'm looking for new software engineers for my team: https://www.weytec.com/en/company/career/ -->
 - 📫 https://www.linkedin.com/in/renato-bosshart
 
 <!---
